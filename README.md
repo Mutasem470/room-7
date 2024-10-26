@@ -1,5 +1,10 @@
 # room-7
 : Feature Engineering - Student Performance Prediction
+
+Transform the raw student performance data by creating a
+new feature, the Performance Index, which combines HW and
+exam scores to better predict student success.
+
 This code computes a Performance Index for each student by multiplying their homework and exam scores, then prints the resulting list.
 
 data = {
